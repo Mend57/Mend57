@@ -1,6 +1,6 @@
 <h1 align="center"> <👋Hello, World! /> </h1>
 
-- 📖 Learning JavaScript & TypeScript!
+- 🌱 Learning JavaScript & TypeScript!
 
 <div display='inline-block' align='center'>
   <a href="https://github.com/Mend57">
