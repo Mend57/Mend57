@@ -1,4 +1,4 @@
-<h1 align="center">Não sei o que eu to fazendo aqui!</h1>
+<h1 align="left">Não sei o que eu to fazendo aqui!</h1>
 
 <div display='inline-block' align='center'>
   <a href="https://github.com/Mend57">
@@ -13,4 +13,10 @@
   <img align="center" alt="Mend-HTML" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mend-CSS" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mend-React" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+
+##
+  
+<div align="left">
+  <a href = "mailto:cury.ro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
