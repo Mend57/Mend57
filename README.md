@@ -1,5 +1,7 @@
 <h1 align="center"> <👋Hello, World! /> </h1>
 
+- 📖 Learning JavaScript & TypeScript!
+
 <div display='inline-block' align='center'>
   <a href="https://github.com/Mend57">
   <img height="180em" width='420px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mend57&layout=compact&langs_count=7&theme=tokyonight"/>
