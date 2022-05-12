@@ -1,4 +1,4 @@
-<div style="text-align: right"> Não sei o que eu to fazendo aqui! </div>
+## Hi there 👋
 
 <div display='inline-block' align='center'>
   <a href="https://github.com/Mend57">
