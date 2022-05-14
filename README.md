@@ -8,8 +8,11 @@
 </div>
 
 <div style="display: inline_block" align = "center"><br>
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=kotlin&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/kotlin/kotlin-original.svg">
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=python&sort=">
   <img align="center" alt="Mend-Py" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=elixir&sort=">
   <img align="center" alt="Mend-Ex" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Mend-Js" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mend-Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"" />
