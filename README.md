@@ -1,5 +1,6 @@
 <h1 align="center"> <👋Hello, World! /> </h1>
 
+<a href="https://github.com/Mend57?tab=repositories&q=&type=&language=elixir&sort=">
 - 📚 Learning about Functional Programming!
 
 <div display='inline-block' align='center'>
