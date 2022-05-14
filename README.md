@@ -8,9 +8,9 @@
 </div>
 
 <div style="display: inline_block" align = "center"><br>
-  <img align="center" alt="Mend-Kotlin" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Mend-Python" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mend-Elixir" height="54" width="72" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Mend-Py" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mend-Ex" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Mend-Js" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mend-Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"" />
 </div>
