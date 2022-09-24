@@ -4,7 +4,7 @@
 
 <div display='inline-block' align='center'>
   <a href="https://github.com/Mend57?tab=repositories">
-  <img height="180em" width='420px' src= https://github-readme-stats.vercel.app/api/top-langs/?username=Mend57&hide=Jupyter Notebook&layout=compact&langs_count=7&theme=tokyonight />
+  <img height=180em width='420px' src= https://github-readme-stats.vercel.app/api/top-langs/?username=Mend57&hide=Jupyter Notebook&layout=compact&langs_count=7&theme=tokyonight />
 </div>
 
 <div style="display: inline_block" align = "center"><br>
