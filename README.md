@@ -18,6 +18,4 @@
   <img align="center" alt="Mend-Ex" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=javascript&sort=">
   <img align="center" alt="Mend-Js" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=typescript&sort=">
-  <img align="center" alt="Mend-Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"" />
 </div>
