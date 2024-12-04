@@ -12,7 +12,7 @@
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/java/java-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=kotlin&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/kotlin/kotlin-original.svg">
-  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=python&sort=">
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=jupyter-notebook&sort=">
   <img align="center" alt="Mend-Py" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=elixir&sort=">
   <img align="center" alt="Mend-Ex" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
