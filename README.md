@@ -11,7 +11,7 @@
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=java&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/java/java-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=cpp&sort=">
-  <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/c++/c++-original.svg">
+  <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/cplusplus/cplusplus-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=kotlin&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/kotlin/kotlin-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=jupyter-notebook&sort=">
