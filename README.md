@@ -2,11 +2,6 @@
 
 - 📚 Learning about Functional Programming!
 
-<div display='inline-block' align='center'>
-  <a href="https://github.com/Mend57?tab=repositories">
-  <img height="180em" width='420px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mend57&layout=compact&langs_count=7&theme=tokyonight&hide=jupyter%20notebook"/>
-</div>
-
 <div style="display: inline_block" align = "center"><br>
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=java&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/java/java-original.svg">
