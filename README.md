@@ -7,8 +7,8 @@
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/java/java-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=cpp&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/cplusplus/cplusplus-original.svg">
-  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=cs&sort=">
-  <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/cs/cs-original.svg">
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=csharp&sort=">
+  <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/csharp/csharp-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=elixir&sort=">
   <img align="center" alt="Mend-Ex" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=javascript&sort=">
