@@ -9,7 +9,7 @@
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/cplusplus/cplusplus-original.svg">
   <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=csharp&sort=">
   <img align="center" alt="Mend-Kt" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon//master/icons/csharp/csharp-original.svg">
-  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=typescript&sort=">
-  <img align="center" alt="Mend-Ts" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <a href="https://github.com/Mend57?tab=repositories&q=&type=&language=javascript&sort=">
+  <img align="center" alt="Mend-Js" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
